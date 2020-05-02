@@ -1,7 +1,7 @@
 ## Python Working with pandas
 
 In this project, I've tried to get you some basic function of working with pandas, working with dataset and introduced **Jupyter Notebook** environment. There are seven files in this 
-repository. All of them are sorted sequally. Firt sixes are written in jupyter environment, so you can understand properly. I've used here ```pandas``` and ```geopy``` library
+repository. All of them are sorted sequally. Firt sixes are written in jupyter environment, so you can understand properly. I've used here ```pandas``` and ```geopy``` library.
 
 **How to install Jupyter Notebook**
 - It's easy. Open your cmd type ```pip install jupyterlab```, press enter and it's done.
@@ -10,7 +10,7 @@ repository. All of them are sorted sequally. Firt sixes are written in jupyter e
 
 **What we will learn**
 
-* Introduction to ```pandas``` library
+* Introduction to ```pandas``` library.
 * Loading local data set with pandas. Datasets are used in this repository are stored in the *sample file* folder.
   * .csv 
   * .txt
