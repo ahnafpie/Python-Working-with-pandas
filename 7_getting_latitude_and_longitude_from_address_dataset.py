@@ -12,5 +12,4 @@ df['Coordinates'] = df['Address'].apply(nom.geocode)
 # adding latitude and longitude
 df['Latitude'] = df['Coordinates'].apply(lambda x: x.latitude)
 df['Longitude'] = df['Coordinates'].apply(lambda x: x.longitude)
-
 print(df)
